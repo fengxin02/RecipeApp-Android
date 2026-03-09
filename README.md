@@ -3,7 +3,7 @@
 
 ### [Recept ]
 
-<img src="./Recept/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" width="160"/>
+<img src="./app/src/main/res/mipmap-xhdpi/ic_launcher.webp" width="160"/>
 
 ## Bemutatás
 
@@ -19,7 +19,7 @@ Az alkalmazás indításakor a főképernyő fogadja a felhasználót, ahol alap
 </p>
 
 <p align="center"> 
-<img src="./Recept/assets/homescreen.png" width="320"/>
+<img src="./assets/homescreen.png" width="320"/>
 <br>
 1. ábra: A főképernyő felső TopAppBar-nál van keresés, jobb alsó sarokban kedvencek, és időzítő. 
 </p>
@@ -27,21 +27,21 @@ Az alkalmazás indításakor a főképernyő fogadja a felhasználót, ahol alap
 
 A lista elemeire (recept) kattintva megjelenik a részletes nézet, ahol a felhasználó megtekintheti az étel hozzávalóit és elkészítési módját. A jobb felső sarokban található szív ikonnal a recept menthető a kedvencek közé, így az internetkapcsolat nélkül is elérhető marad.
 
-<p align="center"> <img src="./Recept/assets/detailscreen.png" width="320"/>
+<p align="center"> <img src="./assets/detailscreen.png" width="320"/>
 <br>
 2. ábra: A recept részletes nézete
 </p>
 
 
 Ha megnyitottad az időzítőtt, akkor ott előre beállított (1, 5, 10 perc) vagy egyéni időtartam adható meg. Az időzítő a háttérben is fut, és értesítésben jelzi a hátralévő időt. Stop Timerre kattintva leállítja az időzítőt.
-<p align="center"> <img src="./Recept/assets/timerscreen.png" width="320"/>
+<p align="center"> <img src="./assets/timerscreen.png" width="320"/>
 <br>
 3. ábra: Időzítő részletes nézete
 </p>
 
 
 Ha megnyitottad az kedvenceket, akkor itt látható az összes elmentett kedvenc receptek. Offline is működik.
-<p align="center"> <img src="./Recept/assets/favouritescreen.png" width="320"/>
+<p align="center"> <img src="./assets/favouritescreen.png" width="320"/>
 <br>
 4. ábra: Kedvencek részletes nézete
 </p>
